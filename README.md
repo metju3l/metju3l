@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-⚡ [hiStories](hub.com/krystofex/hiStories)
+⚡ [hiStories](https://github.com/krystofex/hiStories)
